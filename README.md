@@ -2,7 +2,7 @@
 
 ## Overview
 
-# This project is a simple Chatbot Flow Builder 
+# This project is a Chatbot Flow Builder 
 
 ✨ Implemented chatbot flow builder application with features:
    - Interactive node-based graph using React Flow.
